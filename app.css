@@ -1,0 +1,11 @@
+.faqs-wrapper{
+  margin:20px;
+}
+.faqs-wrapper .heading{
+  margin-bottom:20px;
+}
+
+.faqs-wrapper a:hover,
+.faqs-wrapper a:focus{
+  text-decoration: none;
+}
